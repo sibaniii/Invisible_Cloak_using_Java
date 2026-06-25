@@ -1,3 +1,4 @@
+<img width="1080" height="867" alt="WhatsApp Image 2026-06-25 at 8 07 23 PM" src="https://github.com/user-attachments/assets/30cb1338-0f72-4704-ac48-5eb61612af33" />
 # Invisible_Cloak_using_Java
 The rapid advancement of computer vision and graphical user interface technologies has enabled
 the development of innovative and interactive applications that simulate real-world effects using
